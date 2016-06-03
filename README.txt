@@ -4,8 +4,6 @@ CONTENTS OF THIS FILE
 ---------------------
 CONTENTS OF THIS FILE
 ---------------------
----------------------
-CONTENTS OF THIS FILE
 
  * About Drupal
  * Configuration and features
